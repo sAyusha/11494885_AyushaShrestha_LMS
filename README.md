@@ -18,13 +18,13 @@ LMS is created using oop concept, Java programming language and database connect
 * [MySQL Workbench](https://www.mysql.com/products/workbench/) 
 * [Connector/J](https://dev.mysql.com/downloads/connector/j/)
 
-## Ayusha Shrestha
-# Coventry ID : 11494885
+# Ayusha Shrestha
+## Coventry ID : 11494885
 
-# College ID : 200269
+## College ID : 200269
 
-# Batch : 29A 'February'
+## Batch : 29A 'February'
 
-# Email : ayushastha69@gmail.com
+## Email : ayushastha69@gmail.com
   
                                           Thank You!!!
