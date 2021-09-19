@@ -15,8 +15,8 @@ LMS is created using oop concept, Java programming language and database connect
 
 ## Tools used in the project.
 * [Eclipse IDE](https://www.eclipse.org/) for developing code in Java.
-* [MySQL Workbench] (https://www.mysql.com/products/workbench/) 
-* [Connector/J] (https://dev.mysql.com/downloads/connector/j/)
+* [MySQL Workbench](https://www.mysql.com/products/workbench/) 
+* [Connector/J](https://dev.mysql.com/downloads/connector/j/)
 
 ## Ayusha Shrestha
 # Coventry ID : 11494885
