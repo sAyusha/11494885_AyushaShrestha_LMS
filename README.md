@@ -23,7 +23,7 @@ Coventry ID : 11494885
 
 College ID : 200269
 
-Batch : 29A 'February'
+Batch : 29A 'September 2020'
 
 Email : ayushastha69@gmail.com
   
